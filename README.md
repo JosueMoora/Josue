@@ -42,7 +42,7 @@ Me apasiona la tecnología y el desarrollo de software. Soy un ingeniero de sist
 <a href="https://github.com/JosueMoora" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/josu%C3%A9-mora-6b612a192/" target="_blank">
+<a href="https://www.linkedin.com/in/josu%C3%A9-mora-6b612a192/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/josuem2099" target="_blank">
