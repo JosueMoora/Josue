@@ -7,7 +7,7 @@ Me apasiona la tecnología y el desarrollo de software. Soy un ingeniero de sist
 <br/>  
 
 
-## My Skill Set  
+## Tecnologias
 <table><tr><td valign="top" width="33%">
 
 
