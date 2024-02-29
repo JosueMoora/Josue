@@ -90,6 +90,13 @@ entregar proyectos de alta calidad en plazos ajustados.
       alt="PHP"
       height="50"
   /></a>
+  <a href="https://laravel.com/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/laravel-original.svg"
+      alt="Laraveñ"
+      height="50"
+  /></a>
   <a href="https://nodejs.org/" target="_blank"
     ><img
       style="margin: 10px"
